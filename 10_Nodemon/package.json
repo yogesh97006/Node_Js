@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "validator": "^13.9.0"
+  },
+  "name": "10_nodemon",
+  "version": "1.0.0",
+  "description": "nodemon",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yogesh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
