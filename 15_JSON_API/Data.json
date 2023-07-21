@@ -1,0 +1,58 @@
+[
+    {
+    "id":1,
+    "Name":"Yogesh",
+    "Lives":"Hyderabad",
+    "Work":{
+        "Library":"React-js",
+        "DataBase":"MongoDB",
+        "Backend":"NodeJs",
+        "Server":"Express"
+    }
+},
+{
+    "id":2,
+    "Name":"Praneeth",
+    "Lives":"Banglore",
+    "Work":{
+        "FrameWork":"Angular",
+        "DataBase":"NoSql",
+        "Backend":"Python",
+        "Server":"Django"
+    }
+},
+
+    {
+    "id":3,
+    "Name":"Aishwary",
+    "Lives":"Delhi",
+    "Work":{
+        "FrameWork":"Vue-js",
+        "DataBase":"PostSql",
+        "Backend":"Java",
+        "Server":"Spring"
+    }
+},
+    {
+    "id":4,
+    "Name":"Raju",
+    "Lives":"Hyderabad",
+    "Work":{
+        "Library":"Next-Js",
+        "DataBase":"MongoDB",
+        "Backend":"TypeScript",
+        "Server":"Express"
+    }
+},
+    {
+    "id":5,
+    "Name":"Ravi",
+    "Lives":"Hyderabad",
+    "Work":{
+        "Library":"Nuxt",
+        "DataBase":"Sql",
+        "Backend":"Php",
+        "Server":"Apache"
+    }
+}
+]
